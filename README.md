@@ -1,2 +1,2 @@
 # dowafrica
-A website for Doing Good Work in Africa (DOWA).
+Primary website for Doing Good Work in Africa (DOWA).
